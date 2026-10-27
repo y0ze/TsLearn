@@ -4,3 +4,4 @@ node_modules/
 receipt.jpg
 order.bad.json
 order.schema.json
+storage/
